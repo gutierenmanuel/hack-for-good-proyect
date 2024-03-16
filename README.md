@@ -1,6 +1,6 @@
-# TITLE PROYECT
-Hola majo 
-explanation of the github project
+# COOKtoGOOD
+
+Welcome to COOKtoGOOD, an innovative application designed to enhance your cooking experience! With COOKtoGOOD, you can effortlessly scan your grocery receipts and get personalized recipe recommendations based on your purchased ingredients.
 
 ## Content
 
@@ -12,10 +12,7 @@ explanation of the github project
 
 ## Usage
 
-use or tutorial of the project
-
-## Examples
-
+To use the application, simply download it and take a photo of your receipt.
 
 
 ## Project Structure
